@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.layout{
+    display: grid;
+    grid-template-areas: 
+    "nav nav nav nav"
+    "esqueda main main direita"
+    
+    "esqueda main main direita"
+    "footer footer footer footer";
+    grid-template-columns: 1fr 4fr 4fr 1fr ;   
+    grid-template-rows: 5vh 88vh 5vh ;    
+}
+nav{grid-area: nav; background-color: red;}
+.esquerda{grid-area: esqueda;background-color: blue;}
+main{grid-area: main; background-color: yellow;}
+.direita{grid-area: direita; background-color: green;}
+footer{grid-area: footer;  background-color:gray;}
