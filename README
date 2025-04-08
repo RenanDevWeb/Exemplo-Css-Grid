@@ -11,7 +11,7 @@ This repository contains a simple and practical example of how to build a **thre
 
 ## 🚀 Technologies Used
 
-- **HTML5** – Semantic structure of the page
+- **HTML5** – Semantic structure of the page  
 - **CSS3** – Styling and grid-based layout system using `display: grid`
 
 ---
@@ -23,23 +23,11 @@ This repository contains a simple and practical example of how to build a **thre
 ```bash
 git clone https://github.com/RenanDevWeb/Exemplo-Css-Grid.git
 
-
-Open the project folder
-
-bash
-Copiar
-Editar
 cd Exemplo-Css-Grid
-Open the index.html file in your browser
 
-You can simply double-click on index.html or open it via your code editor's live server to see the layout in action.
+ ## What You'll Learn
+ - How to use display: grid
 
-🧠 What You'll Learn
-How to use display: grid
+- How to define columns and rows
 
-How to define columns and rows
-
-How to create responsive layouts using grid-template-columns, gap, and more
-
-📄 License
-This project is licensed under the MIT License. Feel free to use and modify it for your learning or your own projects.
+- How to create responsive layouts using grid-template-columns, gap, and more
